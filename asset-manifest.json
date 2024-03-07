@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mealapireact/static/css/main.2f643a60.css",
+    "main.js": "/mealapireact/static/js/main.97b29939.js",
+    "index.html": "/mealapireact/index.html",
+    "main.2f643a60.css.map": "/mealapireact/static/css/main.2f643a60.css.map",
+    "main.97b29939.js.map": "/mealapireact/static/js/main.97b29939.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f643a60.css",
+    "static/js/main.97b29939.js"
+  ]
+}
